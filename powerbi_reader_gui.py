@@ -3,6 +3,7 @@ import msal
 import tkinter as tk
 from tkinter import messagebox
 
+# 
 # Configuración de Azure AD
 CLIENT_ID = 'tu-client-id'
 TENANT_ID = 'tu-tenant-id'
